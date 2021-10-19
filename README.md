@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florentin DUBUC</h1>
-<h3 align="center">I'm a student and a passionate developer from France</h3>
+<h3 align="center">I'm a passionate developer from France</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
